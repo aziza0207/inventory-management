@@ -8,8 +8,8 @@
 docker compose up --build
 ```
 
-## После запуска
+## После запуска. Swagger
 
 ```shell
-Swagger - http://localhost:8001/docs
+http://localhost:8001/docs
 ```
