@@ -13,7 +13,7 @@ docker compose up --build
 ```shell
 http://localhost:8001/docs
 ```
-## Для запска тестов
+## Для запуска тестов
 
 ```shell
 docker compose run --rm web sh -c "pytest"
