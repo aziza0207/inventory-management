@@ -1,5 +1,4 @@
 # investment-management
-
 ***
 
 ## Локальный запуск приложения
